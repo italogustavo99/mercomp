@@ -10,5 +10,8 @@ package br.com.clarifysolution.mercomp;
  * @author italo.teixeira
  */
 public class mercomp {
-    System.out.println("kk");
+    
+    public void main() {
+        System.out.println("kk");
+    }
 }
