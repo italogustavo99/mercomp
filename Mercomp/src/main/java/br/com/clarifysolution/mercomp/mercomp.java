@@ -11,7 +11,7 @@ package br.com.clarifysolution.mercomp;
  */
 public class mercomp {
     
-    public void main() {
+    public static void main() {
         System.out.println("kk");
     }
 }
