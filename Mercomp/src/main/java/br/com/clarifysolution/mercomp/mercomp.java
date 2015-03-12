@@ -9,7 +9,7 @@ package br.com.clarifysolution.mercomp;
  *
  * @author italo.teixeira
  */
-public class mercomp {
+public class mercomp { 
     
     public static void main() {
         System.out.println("kk");
